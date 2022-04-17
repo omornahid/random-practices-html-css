@@ -23,6 +23,14 @@ h2{
   margin-bottom: 150px;
   
 }
+.abc{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.hisenberg{
+  padding: 50px;
+}
 
 .half_width{
   width: 50%;
@@ -45,7 +53,7 @@ button{
 .part-2{
   display: flex;
   margin-bottom: 100px;
-  background-color: thistle;
+ 
 }
 a{
   text-decoration: none;
@@ -88,11 +96,6 @@ a{
   border-image-slice: 1;
 }
 
-.aaa{
-  height: 300px;
-  width: 100px;
-  border: 100px solid;
-  border-image: repeating-linear-gradient(red,red 10px , blue 10px, blue 20px);
-  border-image-slice: 1;
-
+footer p{
+  text-align: center;
 }
