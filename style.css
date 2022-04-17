@@ -55,8 +55,13 @@ button{
   margin-bottom: 100px;
  
 }
+.dream{
+  color: darkgoldenrod;
+}
+
 a{
   text-decoration: none;
+  color:aliceblue;
 }
 .part-3{
   background-color: rgb(235, 235, 235);
@@ -66,6 +71,7 @@ a{
 .part-3 h1{
   text-align: center;
   padding-top: 20px;
+  color: maroon;
 }
 .part-3_flex{
   display: flex;
