@@ -18,7 +18,7 @@ h2{
 
 .part-1{
   display: flex;
-  background-image: url(/img/top-banner.png);
+  background-image: url(../img/top-banner.png);
   background-repeat: no-repeat;
   margin-bottom: 150px;
   
